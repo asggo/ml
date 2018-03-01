@@ -5,7 +5,7 @@ package labelencode
 import (
 	"errors"
 
-	"github.com/averagesecurityguy/structures/set"
+	"github.com/asggo/structures/set"
 )
 
 var NotFit = errors.New("labelencoder: data does not fit given attributes")

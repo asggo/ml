@@ -1,7 +1,7 @@
 package labelencode
 
 import (
-	"github.com/averagesecurityguy/structures/set"
+	"github.com/asggo/structures/set"
 )
 
 type StringEncode struct {
